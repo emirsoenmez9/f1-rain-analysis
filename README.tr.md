@@ -1,5 +1,5 @@
 [English Version (README.md)](README.md)
-
+📄 **Final Report:** [English](reports/f1-rain-analysis-final-report-EN.pdf) · [Türkçe](reports/f1-rain-analysis-final-rapor.pdf)
 ---
 
 # f1-rain-analysis
